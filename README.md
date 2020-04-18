@@ -1,4 +1,4 @@
-# Coursework-Ethereum-Analysis-
+# Ethereum Analysis
 ANALYSIS OF ETHEREUM TRANSACTIONS AND SMART CONTRACTS
 The goal of this coursework is to apply the techniques covered in the first half of Big Data Processing to analyse the full set of transactions which have occurred on the Ethereum network; from the first transactions (14-02-2016) till 30-06-2019. You will create several Map/Reduce or Spark programs to perform multiple types of computation. You will submit a report containing your results alongside an explanation of how they were obtained.
 
