@@ -235,4 +235,8 @@ For any transaction on Ethereum a user must supply gas. How has gas price change
 
 How does it run in comparison? Keep in mind that to get representative results you will have to run the job multiple times, and report median/average results. Can you explain the reason for these results? What framework seems more appropriate for this task?
 
+---
 
+# Licenese and copyright
+
+@HARNOOR SINGH OBERAI, Queen Mary University of London
